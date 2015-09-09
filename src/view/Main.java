@@ -8,6 +8,7 @@ public class Main {
 		SoController soController = 
 				new SoController();
 		System.out.println(soController.os());
+		System.out.println(soController.version());
 	}
 
 }
